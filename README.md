@@ -38,13 +38,13 @@ Luego, puedes ingresar las instrucciones una por una. El programa terminará cua
 
 Aquí tienes un ejemplo de uso del programa:
 
-- > SET  D0 5 NULL NULL
-SET D1 10 NULL NULL
-ADD D0 NULL NULL
-ADD D1 NULL NULL
-STR D2 NULL NULL
-SHW D2 NULL NULL
-END NULL NULL NULL
+- SET  D0 5 NULL NULL
+- SET D1 10 NULL NULL
+- ADD D0 NULL NULL
+- ADD D1 NULL NULL
+- STR D2 NULL NULL
+- SHW D2 NULL NULL
+- END NULL NULL NULL
 
 15
 
