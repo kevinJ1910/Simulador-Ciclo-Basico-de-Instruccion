@@ -46,6 +46,6 @@ Aquí tienes un ejemplo de uso del programa:
 - SHW D2 NULL NULL
 - END NULL NULL NULL
 
-15
+> 15
 
 En este ejemplo, se asignan los valores 5 y 10 a las posiciones 0 y 1 de la memoria, respectivamente. Luego, se suman esos valores al acumulador y se almacena el resultado (15) en la posición 2 de la memoria. Finalmente, se muestra el valor almacenado en la posición 2.
